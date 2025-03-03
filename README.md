@@ -16,6 +16,11 @@ With 5 years of experience in building responsive, user-friendly, and efficient 
 
 
 ---
+
+### 🌍 Personal Websites:
+🔗 **[Personal Portfolio](https://devdot.technologyhub.blog/)**  
+🔗 **[Blog Website](https://technologyhub.blog/)**
+
 [![](https://visitcount.itsvg.in/api?id=SandeepVerma334&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
